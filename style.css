@@ -1,0 +1,68 @@
+body{
+    background-image:url("dininghall.jpg");
+    background-size: cover;
+}
+.question-box{
+    width:15%;
+    height:10%;
+    background-color: black;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    border-color: white;
+    border-style: solid;
+    font-size:20px;
+    font-style: italic;
+}
+
+.answer-box{
+    width:15%;
+    height:10%;
+    background-color: black;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 10px;
+    margin-left: 60%;
+    margin-right: 8%;
+    margin-top: 0%;
+    border-color: white;
+    border-style: solid;
+}
+
+.hidden{
+    display: none;
+}
+
+
+#result{
+    background-image:url("arte de.jpg");
+    background-size: cover;
+    position: absolute;
+    height:70%;
+    width:40%;
+    margin-top: 7%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 10%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+
+#result-text{
+    font-size: 40px;
+    font-style: italic;
+    color: black;
+    align-content: center;
+    padding-top: 40%;
+}
